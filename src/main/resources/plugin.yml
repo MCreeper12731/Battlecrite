@@ -1,0 +1,6 @@
+name: Battlecrite
+version: '${project.version}'
+main: com.github.mcreeper12731.battlecrite.Battlecrite
+api-version: '1.20'
+author: MCreeper12731
+
